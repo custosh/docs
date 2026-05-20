@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://docs.custosh.dev/</loc>
-    <lastmod>2026-05-20T10:31:22.162Z</lastmod>
+    <lastmod>2026-05-20T10:34:33.231Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://docs.custosh.dev/projects</loc>
-    <lastmod>2026-05-20T10:31:22.162Z</lastmod>
+    <lastmod>2026-05-20T10:34:33.231Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://docs.custosh.dev/about</loc>
-    <lastmod>2026-05-20T10:31:22.162Z</lastmod>
+    <lastmod>2026-05-20T10:34:33.231Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://docs.custosh.dev/contact</loc>
-    <lastmod>2026-05-20T10:31:22.162Z</lastmod>
+    <lastmod>2026-05-20T10:34:33.231Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
